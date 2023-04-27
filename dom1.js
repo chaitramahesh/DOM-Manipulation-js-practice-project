@@ -3,7 +3,7 @@ let form = document.getElementById('addForm')
 let itemList = document.getElementById('items')
 let filter = document.getElementById('filter')
 
-// form submit event
+// form submit event. 
 form.addEventListener('submit', addItems);
 // delete event
 itemList.addEventListener('click', removeItems);
