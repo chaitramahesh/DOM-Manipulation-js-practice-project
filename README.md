@@ -1,3 +1,2 @@
 ﻿# dom-manipulation
-This is a javascript project.
-This is done for practice purpose
+https://chaitramahesh.github.io/DOM-Manipulation-js-practice-project/
